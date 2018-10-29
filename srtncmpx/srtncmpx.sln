@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "srtncmpx", "srtncmpx\srtncmpx.vcxproj", "{FB57409E-E670-433F-A7B9-76D2130C47AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB57409E-E670-433F-A7B9-76D2130C47AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB57409E-E670-433F-A7B9-76D2130C47AA}.Debug|Win32.Build.0 = Debug|Win32
+		{FB57409E-E670-433F-A7B9-76D2130C47AA}.Release|Win32.ActiveCfg = Release|Win32
+		{FB57409E-E670-433F-A7B9-76D2130C47AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
